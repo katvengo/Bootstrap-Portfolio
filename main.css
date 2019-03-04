@@ -20,3 +20,33 @@ small{
     color: #553300;
 }
 
+.text-block {
+    width: 200px;
+    height: 35px;
+    background-color: #925a068a;
+    border-style: 1px solid #553300;
+    color: white;
+    text-align: center;
+}
+
+#two {
+    position: relative;
+    bottom: -130px;
+}
+#three{
+    position: relative;
+    bottom: -130px;
+}
+
+#four{
+    position: relative;
+    bottom: -130px;
+}
+#five{
+    position: relative;
+    bottom: -130px;
+}
+#six{
+    position: relative;
+    bottom: -130px;
+}
